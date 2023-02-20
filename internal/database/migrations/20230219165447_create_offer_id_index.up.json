@@ -1,0 +1,12 @@
+[{
+  "createIndexes": "offers",
+  "indexes": [
+    {
+      "key": {
+        "offer_id": 1
+      },
+      "name": "offer_id_idx",
+      "unique": true
+    }
+  ]
+}]
